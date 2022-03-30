@@ -1,0 +1,5 @@
+- I’m @JohnRyland on GitHub, @John_Ryland on Twitter
+- I’m interested in computer graphics, 3D, UI systems, MCUs, OSes, compilers
+- I mostly write code in C/C++
+- I want to learn Rust
+- I care about performance, as well as code safety, maintainability and extensibility
